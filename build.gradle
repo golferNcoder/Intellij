@@ -13,7 +13,7 @@ dependencies {
     testImplementation platform('org.junit:junit-bom:5.10.0')
     testImplementation 'org.junit.jupiter:junit-jupiter'
     // https://mvnrepository.com/artifact/org.springframework/spring-context
-    implementation group: 'org.springframework', name: 'spring-context', version: '7.0.0-M2'
+    implementation group: 'org.springframework', name: 'spring-context', version: '6.2.7'
 
 }
 
